@@ -3,10 +3,10 @@ import './Footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/nare-ndra'
+      href='https://github.com/lohithkattamuri'
       className='link footer__link'
     >
-      Created By Narendra
+      Created By Lohith
     </a>
   </footer>
 )

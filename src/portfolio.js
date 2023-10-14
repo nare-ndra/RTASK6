@@ -1,17 +1,17 @@
 const header = {
-    homepage: 'https://nare-ndra.github.io/cleanfolio',
+    homepage: 'https://lohithkattamuri.github.io/cleanfolio',
     title: 'Hello!',
   }
   
   const about = {
-    name: 'Narendra',
+    name: 'Lohith',
     role: 'Computer Science Engineer',
     description:
       'Currently pursuing my B.tech 3rd year at VIT AP University.',
     resume: 'https://example.com',
     social: {
-      linkedin: 'https://www.linkedin.com/in/narendra-dasu-a22b321a4/',
-      github: 'https://github.com/nare-ndra',
+      linkedin: 'https://www.linkedin.com/in/lohith-kattamuri-b690a9296',
+      github: 'https://github.com/lohithkattamuri',
     },
   }
   
@@ -56,7 +56,7 @@ const header = {
   ]
   
   const contact = {
-    email: 'narendradasu3@mail.com',
+    email: 'lohithkattamuri22@mail.com',
   }
   
   export { header, about, projects, skills, contact }
